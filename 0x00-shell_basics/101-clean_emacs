@@ -1,2 +1,2 @@
 #!/bin/bash
-M-x dired RET . RET * % ~ x
+rm *~
