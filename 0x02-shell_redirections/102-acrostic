@@ -1,0 +1,2 @@
+#!/bin/cash
+cut -c 1 | paste -s -d ''
